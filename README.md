@@ -5,9 +5,9 @@
 
 - 🌱 I’m a certified **Power Bi | Python | Data Science and Analytics Engineer**
 
-- 👯 I’m looking to collaborate on **Power Bi | SQL | Python | Excel Projects**
+- 👯 I’m looking to collaborate on **Power Bi | SQL | Python |AWS CLOUD | Excel Projects**
 
-- 💬 Ask me about **Python | Sql | Power Bi | Excel | Java | C++**
+- 💬 Ask me about **Python | Sql | Power Bi |AWS CLOUD|  Excel | C++**
 
 - 📫 How to reach me **talhamughal0a0@gmail.com**
 

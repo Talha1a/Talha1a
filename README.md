@@ -5,7 +5,7 @@
 
 - 🌱 I’m a certified **Power Bi | Python | Data Science and Analytics Engineer**
 
-- 👯 I’m working on **Power Bi | Google Looker Studio |SQL | Python |AWS CLOUD | Excel **
+- 👯 I’m working on **Power Bi | Google Looker Studio | SQL | Python |AWS CLOUD | Excel**
 
 - 💬 Ask me about **Python | Sql | Power Bi | Google Looker Studio | AWS CLOUD|  Excel | C++**
 

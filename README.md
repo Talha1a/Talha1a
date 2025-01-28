@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Talha</h1>
-<h3 align="center">A passionate Data Analyst  from Pakistan</h3>
+<h3 align="center">a Data Analyst working Remotely</h3>
 
 - 🔭 I’m currently working on **Data Analytics projects**
 

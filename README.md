@@ -2,7 +2,7 @@
 <h3 align="center">Remote Data Analyst | Power BI Specialist | Python & SQL Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst+%7C+Power+BI+Developer+%7C+Python+%7C+SQL+%7C+AWS+Cloud;Passionate+about+turning+data+into+insights!&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Analyst;Power%20BI%20Developer;Python%20%7C%20SQL%20%7C%20AWS%20Cloud;Turning%20data%20into%20insights!&center=true&width=500&height=45">
 </p>
 
 ---

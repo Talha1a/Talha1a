@@ -10,9 +10,9 @@
 ### 🔍 About Me
 
 - 🎯 Currently working as an **Data Analyst** in a US based Company.
-- 🌐 Working on **real-world data analytics projects**
-- 📚 Certified in **Power BI, Python, SQL, AWS Cloud, Excel, Data Science & Analytics Engineering**
-- 🤝 Collaborating on projects involving **Power BI, Google Looker Studio, SQL, Python, AWS, and Excel**
+- 🌐 Working on **real-world data analytics projects**.
+- 📚 Certified in **Power BI, Python, SQL, AWS Cloud, Excel, Data Science & Analytics Engineering**.
+- 🤝 Collaborating on projects involving **Power BI, Google Looker Studio, SQL, Python, AWS, and Excel**.
 - 💡 Ask me about:  
   `Python` • `SQL` • `Power BI` • `Looker Studio` • `Excel` • `AWS` • `C++`
 - 📩 Reach me at: **talhamughal0a0@gmail.com**

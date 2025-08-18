@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Muhammad Talha</h1>
-<h3 align="center">Remote Data Analyst | Power BI Specialist | Python & SQL Enthusiast</h3>
+<h3 align="center"> Data / Business Analyst | Business Intelligence | Power BI Specialist | Python & SQL Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Analyst;Power%20BI%20Developer;Python%20%7C%20SQL%20%7C%20AWS%20Cloud;Turning%20data%20into%20insights!&center=true&width=500&height=45">
@@ -11,10 +11,10 @@
 
 - 🎯 Currently working as an **Data Analyst** in a US based Company.
 - 🌐 Working on **real-world data analytics projects**.
-- 📚 Certified in **Power BI, Python, SQL, AWS Cloud, Excel, Data Science & Analytics Engineering**.
-- 🤝 Collaborating on projects involving **Power BI, Google Looker Studio, SQL, Python, AWS, and Excel**.
+- 📚 Certified in **Power BI, Python, SQL, AWS, Excel, Data Science & Analytics Engineering**.
+- 🤝 Collaborating on projects involving **Power BI, Google Looker Studio, SQL, Python, AWS, Orange and Excel**.
 - 💡 Ask me about:  
-  `Python` • `SQL` • `Power BI` • `Looker Studio` • `Excel` • `AWS` • `C++`
+  `Python` • `SQL` • `Power BI` • `Looker Studio` • `Excel` • `AWS` • `ML`
 - 📩 Reach me at: **talhamughal0a0@gmail.com**
 
 ---

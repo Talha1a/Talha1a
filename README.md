@@ -9,7 +9,7 @@
 
 ### 🔍 About Me
 
-- 🎯 Currently working as an **Data Analyst** in a US based Company.
+- 🎯 Currently working as an **BI Developer** in a Tech Firm.
 - 🌐 Working on **real-world data analytics projects**.
 - 📚 Certified in **Power BI, Python, SQL, AWS, Excel, Data Science & Analytics Engineering**.
 - 🤝 Collaborating on projects involving **Power BI, Google Looker Studio, SQL, Python, AWS, Orange and Excel**.
